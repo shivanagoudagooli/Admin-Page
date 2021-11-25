@@ -1,6 +1,6 @@
 # adminui using Vue JS(vue@2.6.11)
 
-## Project setup(fallowing need to install to ru the code - 
+## Project setup(fallowing need to install to run the code - 
 ```
 npm install moment@2.29.1
 npm install node-sass@4.14.1,
